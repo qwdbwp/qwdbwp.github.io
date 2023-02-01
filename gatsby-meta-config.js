@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'memoticon.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/qwdbwp`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `iqwdbwpi@gmail.com`,
+      github: `https://github.com/qwdbwp`,
+      linkedIn: `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
+      email: `iqwdbwpi@gmail.com`,
     },
   },
 

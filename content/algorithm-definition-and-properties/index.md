@@ -1,3 +1,11 @@
+---
+emoji: 📟
+title: "[Algorithms 알고리즘] 알고리즘의 정의와 성질"
+author: 이예슬
+tags: Algorithms
+categories: Algorithms
+---
+
 # 알고리즘
 
 정의: 유한한 시간 안에 적절한 입력을 받아 필요한 출력을 얻는 문제를 풀기 위한 명확한 명령들의 나열
