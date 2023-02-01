@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"[Data Structure 자료구조] List와 Linked list","categories":"data_structure"},"fields":{"slug":"/datastructure-list/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"[Algorithms 알고리즘] 알고리즘의 정의와 성질","categories":"Algorithms"},"fields":{"slug":"/algorithm-definition-and-properties/"}}},{"node":{"frontmatter":{"title":"[Data Structure 자료구조] List와 Linked list","categories":"data_structure"},"fields":{"slug":"/datastructure-list/"}}}]}}}
