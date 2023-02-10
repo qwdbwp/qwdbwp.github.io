@@ -14,7 +14,7 @@ module.exports = {
     name: `이예슬`,
     bio: {
       role: `개발자`,
-      description: ['ENTP', '즉흥적인'],
+      description: ['ENTP', '성장하는', '소통하는'],
       thumbnail: 'memoticon.gif', // Path to the image in the 'asset' folder
     },
     social: {
